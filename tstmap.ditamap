@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.--><!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+
+Modified by Syncro Soft 2016.
+--><map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            (map ditavalref-d)                            (map glossref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   ">
+  <topicref class="- map/topicref " href="tasks/carMaintenance.dita">
+    <topicref audience="expert" class="- map/topicref " href="tasks/changingtheoil.dita" type="task"/>
+    <topicref class="- map/topicref " href="tasks/washingthecar.dita" type="task"/>
+  </topicref>
+    <topicref audience="expert novice" class="- map/topicref " href="tasks/garagetaskoverview.dita" type="concept">
+        <topicref class="- map/topicref " href="tasks/organizing.dita" type="task"/>
+        <topicref class="- map/topicref " href="tasks/shovellingsnow.dita" type="task"/>
+        <topicref audience="expert" class="- map/topicref " href="tasks/spraypainting.dita" type="task"/>
+        <topicref class="- map/topicref " href="tasks/takinggarbage.dita" type="task"/>
+    </topicref>
+    <topicref class="- map/topicref " href="concepts/garageconceptsoverview.dita" type="concept">
+	
+  <topicref class="- map/topicref " href="tasks/carMaintenance.dita">
+    <topicref class="- map/topicref " href="tasks/washingthecar.dita" type="task"/>
+    
+  <topicref class="- map/topicref " href="tasks/carMaintenance.dita">
+    <topicref class="- map/topicref " href="tasks/washingthecar.dita" type="task"/>
+  </topicref>
+
+  </topicref>
+
+        <topicref class="- map/topicref " href="concepts/lawnmower.dita" type="concept"/>
+        <topicref class="- map/topicref " href="concepts/oil.dita" type="concept"/>
+        <topicref class="- map/topicref " href="concepts/paint.dita" type="concept"/>
+        <topicref class="- map/topicref " href="concepts/shelving.dita" type="concept"/>
+        <topicref class="- map/topicref " href="concepts/snowshovel.dita" type="concept"/>
+        <topicref class="- map/topicref " href="concepts/toolbox.dita" type="concept"/>
+        <topicref class="- map/topicref " href="concepts/tools.dita" type="concept"/>
+        <topicref class="- map/topicref " href="concepts/waterhose.dita" type="concept"/>
+        <topicref class="- map/topicref " href="concepts/wheelbarrow.dita" type="concept"/>
+        <topicref class="- map/topicref " href="concepts/workbench.dita" type="concept"/>
+        <topicref class="- map/topicref " href="concepts/wwfluid.dita" type="concept"/>
+    </topicref>
+</map>
